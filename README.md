@@ -14,3 +14,8 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 > <img width="1024" height="537" alt="image" src="https://github.com/user-attachments/assets/22b26b33-0d26-4664-918c-463467617949" />
 >###### Highlighted part shows the KPI selector
 > 
+
+
+## Deliverables
+
+### <img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" />  [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNTE3MmIwN2ItMmJhMS00MWZlLTk3MzktNDYwN2IzZDgzNmE5IiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
