@@ -10,8 +10,7 @@ Lio, a leading telecommunications provider in India, is planning a strategic mer
 ### 1.
 >
 > ### Swapable KPIs for all the visuals in the page
-> ###
-> *Enables different KPIs to be analysed without needing to swap pages, resulting in a highly interactive and dynamic report*
+> *Enables different KPIs to be analysed in various levels of detail without needing to swap pages, resulting in a highly interactive and dynamic report*
 > <img width="1024" height="537" alt="image" src="https://github.com/user-attachments/assets/22b26b33-0d26-4664-918c-463467617949" />
 >###### Highlighted part shows the KPI selector
 > 
